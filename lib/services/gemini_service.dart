@@ -5,7 +5,7 @@ import 'package:easy_menu/models/menu_item.dart';
 
 class GeminiService {
   // TODO: Securely manage API Key (e.g., via .env or sensitive config)
-  static const String _apiKey = "AIzaSyBOPrveJ9bluQPOKuzXxif87bW3lNRF3ks"; 
+  static const String _apiKey = "gemini_api_key_here"; 
   
   final GenerativeModel _model;
 
