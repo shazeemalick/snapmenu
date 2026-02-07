@@ -1,16 +1,23 @@
-# easy_menu
+# SnapMenu 🍽️
 
-A new Flutter project.
+**SnapMenu** is a premium, AI-powered menu digitizer built with Flutter. It helps users instantly decode restaurant menus, track prices, and find the smartest deals for their budget.
 
-## Getting Started
+## 🚀 Key Features
+- **AI Menu Extraction:** Uses Google Gemini 2.5 Flash to accurately extract names, categories, descriptions, and price variations from images.
+- **Smart Budgeting:** Filter menu items instantly to see what fits your budget.
+- **Scan History:** Locally persists all your scans using SQLite, including images and data.
+- **Cross-Platform:** Works seamlessly on Android, iOS, and Web.
+- **Premium Design:** A dark-themed, modern UI with smooth animations and Poppins typography.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Framework:** [Flutter](https://flutter.dev)
+- **AI Engine:** [Google Generative AI (Gemini)](https://ai.google.dev/)
+- **Local Database:** [SQLite (sqflite)](https://pub.dev/packages/sqflite)
+- **Local Storage:** [Shared Preferences](https://pub.dev/packages/shared_preferences)
+- **Animations:** [flutter_animate](https://pub.dev/packages/flutter_animate)
 
-A few resources to get you started if this is your first Flutter project:
+## ✍️ Author
+**[SHahzaibAsif](https://github.com/SHahzaibAsif)**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Created with ❤️ by SHahzaibAsif*
